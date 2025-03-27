@@ -47,7 +47,14 @@ plt.show()
 ```
 ### Output Waveform:
 
-![image](https://github.com/user-attachments/assets/91550e7a-7ba5-450d-9c9e-1dc84a25c730)
+![image](https://github.com/user-attachments/assets/371b5005-34b5-48a4-81c0-a8be27f28457)
+
+![image](https://github.com/user-attachments/assets/7c301b3e-fe75-45ac-b94c-55f3229b1972)
+
+![image](https://github.com/user-attachments/assets/0222b6da-f8b7-4a6b-8640-c02fb7913b0f)
+
+
+
 
 ### Results:
     Natural sampling signal will be displayed in separate plots. Thus implemented using python colab.
