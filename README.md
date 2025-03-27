@@ -45,5 +45,9 @@ plt.grid(True)
 plt.legend()
 plt.show()
 ```
-Output Waveform
-Results
+### Output Waveform:
+
+![image](https://github.com/user-attachments/assets/91550e7a-7ba5-450d-9c9e-1dc84a25c730)
+
+### Results:
+    Natural sampling signal will be displayed in separate plots. Thus implemented using python colab.
