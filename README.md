@@ -57,4 +57,4 @@ plt.show()
 
 
 ### Results:
-    Natural sampling signal will be displayed in separate plots. Thus implemented using python colab.
+    Ideal sampling signal will be displayed in separate plots. Thus implemented using python colab.
